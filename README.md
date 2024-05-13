@@ -3,7 +3,8 @@
 Starting up new flutter project with all needed configuration has never been easier.
 
 ## Features:
-   -> Theme (light/dark) & store current theme in shared pref.
+<ul>
+      -> Theme (light/dark) & store current theme in shared pref.
    -> Localization & store the current locale in shared pref.
    -> Notifications setup.
    -> Safe api requests & error handling.
@@ -11,5 +12,6 @@ Starting up new flutter project with all needed configuration has never been eas
    -> Snackbar,Toasts & in app notifications.
    -> Making app more responsive and stop font scaling.
    -> Change app Icon, Name and packageid.
+</ul>
    
 ## Screenshots
